@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Neural Networks**
 
-- 💬 Ask me about **python, CNN,**
+- 💬 Ask me about **python, CNN, Java, Monolithic and Multi-server Architectures, JSF, Prime Faces, **
 
 - 📫 How to reach me **anirudmohan2002@gmail.com**
 
