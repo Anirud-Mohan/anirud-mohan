@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirud Mohan</h1>
 <h3 align="center">An AI enthusiast</h3>
+<h2 align="left"> I enjoy in creating self-learning applications and applications that are able to provide accurate predictions through the given data!!</h2>
 
 - 🌱 I’m currently learning **Machine Learning, Neural Networks**
 
