@@ -2,7 +2,7 @@
 <h3 align="center">An AI enthusiast</h3>
 <h2 align="center"> I enjoy creating self-learning applications that are able to provide accurate predictions through the given data!!</h2>
 
-- 🌱 I’m currently learning **Machine Learning, Neural Networks**
+- 🌱 I’m currently working on **Large Language Models,Machine Learning**
 
 - 💬 Ask me about **python, CNN, Java, Monolithic and Multi-server Architectures, JSF, Prime Faces, **
 
